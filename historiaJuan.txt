@@ -4,4 +4,6 @@ Juan Cabrera su edad es 17 y nace en Venezuela.
 
 Main 1
 
+Main 2
+
 Esta es su historia: Holaaa como estas
